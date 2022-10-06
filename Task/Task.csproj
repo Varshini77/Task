@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Task.HashDict</StartupObject>
+    <StartupObject>Task.CountLines</StartupObject>
   </PropertyGroup>
 
 </Project>
